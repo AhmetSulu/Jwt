@@ -56,8 +56,8 @@ This project is a .NET 8 web application that implements JWT authentication. It 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or support, please email (ahmet.sulu1993@gmail.com)
+For any questions or support, please email ahmet.sulu1993@gmail.com
