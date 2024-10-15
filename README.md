@@ -11,12 +11,16 @@ This project is a .NET 8 web application that implements JWT authentication. It 
 ## Getting Started
 
 1. **Clone the Repository**:
+ 
    ```bash
+   
    git clone https://github.com/AhmetSulu/Jwt.git
    cd jwt
    
 2. **Configure the database connection**:
+ 
     ```bash
+    
    - Update the connection string in `appsettings.json`:
     
      "ConnectionStrings": {
@@ -28,14 +32,17 @@ This project is a .NET 8 web application that implements JWT authentication. It 
        "Audience": "your_audience"
        }
 
- 3. **Run database migrations**:
+3. **Run database migrations**:
+  
     ```bash
+    
     dotnet ef database update
 
 4. **Run the application**:
+   
    ```bash
+   
     dotnet run
-
 
 ## Features
 
